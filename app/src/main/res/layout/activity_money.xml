@@ -42,7 +42,8 @@
                 android:layout_height="wrap_content"
                 android:ems="10"
                 android:hint="Monthly Income"
-                android:inputType="number" />
+                android:inputType="number"
+                android:maxLength="9"/>
 
         </TableRow>
 
